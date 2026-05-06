@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "asia1.flamenodes.cloud:26605",
+    "ip": "asia1.flamenodes.cloud",
     "port": 26605,
     "version": "",
     "try-creative": false
