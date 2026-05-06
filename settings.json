@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "asia1.flamenodes.cloud:26605",
+    "port": 26605,
     "version": "",
     "try-creative": false
   },
